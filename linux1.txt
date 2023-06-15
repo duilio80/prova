@@ -4,3 +4,4 @@ terzo update
 quarto update
 quinto update
 sesto update
+settimo update
